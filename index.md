@@ -11,4 +11,6 @@ Have a look at the [wiki page](https://github.com/chinesebmwheadunits/chinesebmw
 
 All source code that we create as part of our hacking and reverse engineering is located in [several repositories](https://github.com/chinesebmwheadunits). Fork and hack away! We accept pull requests from everyone.
 
+## Discussion.
 
+Discussion about these units takes place mostly in two forum threads. One on [Bimmerpost](https://f30.bimmerpost.com/forums/showthread.php?t=1500481) and the other one on [XDA Developers](https://forum.xda-developers.com/android-auto/android-head-units/avin-usa-bmw-f-series-t3673558).
